@@ -1,0 +1,10 @@
+.heading{
+  color: #758AA2;
+  text-align: center;
+}
+
+.aboutContainer:after{
+  clear: both;
+  display: table;
+  content: "";
+}
