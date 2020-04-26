@@ -11,7 +11,7 @@ class Nav extends React.Component{
 home = () => {
   console.log('Home');
   const homeSection = (
-      <div className="">
+      <div>
         <div className="header">
           <h1 className="h1"> React Demo </h1>
             <div className="buttons">
@@ -27,7 +27,7 @@ home = () => {
 about = () => {
   console.log('About');
   const aboutSection = (
-      <div className="">
+      <div>
         <div className="header">
         <h1 className="h1"> React Demo </h1>
           <div className="buttons">
@@ -42,7 +42,7 @@ about = () => {
 products = () => {
   console.log('Products');
   const productsSection = (
-      <div className="">
+      <div>
         <div className="header">
           <h1 className="h1"> React Demo </h1>
             <div className="buttons">
@@ -59,7 +59,7 @@ products = () => {
 contact = () => {
   console.log('Contact');
   const contactSection = (
-      <div className="">
+      <div>
         <div className="header">
         <h1 className="h1"> React Demo </h1>
           <div className="buttons">

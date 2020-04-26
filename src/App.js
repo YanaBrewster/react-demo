@@ -10,7 +10,7 @@ import Contact from './components/contact/Contact';
 class App extends React.Component{
   render(){
     return(
-      <div className="">
+      <div>
         <div className="header">
           <h1 className="h1"> React Demo Site</h1>
           <div className="buttons">
